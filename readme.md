@@ -55,7 +55,3 @@ letterboxd
 https://letterboxd.com/leivid/
 
 ## live website
-
-https://yourusername.github.io/
-
-replace the link above with your github pages url after deployment.
